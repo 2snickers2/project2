@@ -26,10 +26,11 @@ svg:hover{
     transform: skewX(20deg);
     color: rgb(195, 15, 250);
 }
-img{
+.art{
+    margin: 0 auto;
     width: 550px;
     height: 500px;
-    position: absolute;
-    left: 450px;
+    display: flex;
 }
+
 
